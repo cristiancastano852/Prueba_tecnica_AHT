@@ -24,7 +24,9 @@ Prueba técnica para el cargo de **Desarrollador Python**.
 
 - En la carpeta test se crean los **test** para hacer pruebas a la aplicación.
 
-- Se implemente **CI (continuos integration)** usando **gitHub Actions**. El pipeline en la carpeta de workflows.
+- Se implementa **CI (continuous integration)** usando **gitHub Actions**. El pipeline en la carpeta de workflows.
+
+- Se implementa **ramificación** para el desarrollo junto con **Pull Request** para hacer el merge entre las ramas de main, develop y faeture/..
 
 ## Para ejecutar la aplicación:
 
