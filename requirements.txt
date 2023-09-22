@@ -1,2 +1,2 @@
-Flask==1.1.2
+Flask==2.3.3
 Flask-Testing==0.8.0
